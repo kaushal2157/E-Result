@@ -1,0 +1,1498 @@
+ [
+  {
+    "rollNo": "K-570",
+    "name": "Krishna Bhausaheb Patil",
+    "group": "A",
+    "timeTaken": 10.35,
+    "marks": 38,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1006",
+    "name": "Prathamesh Lalasingh Shinde",
+    "group": "A",
+    "timeTaken": 15,
+    "marks": 25,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-245",
+    "name": "Krishna Sunil Bane",
+    "group": "A",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-785",
+    "name": "Tanushka Tushar Chaudhari",
+    "group": "A",
+    "timeTaken": 10.53,
+    "marks": 30,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-573",
+    "name": "Divya Prashant Patil",
+    "group": "A",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-517",
+    "name": "Vaishnavi Amol Chaudhari",
+    "group": "A",
+    "timeTaken": 9.54,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-572",
+    "name": "Vidhi Prashant Patil",
+    "group": "A",
+    "timeTaken": 12.34,
+    "marks": 27,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-107",
+    "name": "Tejashri Sandip Chaudhari",
+    "group": "A",
+    "timeTaken": 13.14,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-758",
+    "name": "Ganesh Bhaidas Mhaske",
+    "group": "A",
+    "timeTaken": 13.34,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1071",
+    "name": "Maheshwari Ravindra Patil",
+    "group": "A",
+    "timeTaken": 7.17,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-305",
+    "name": "Lavnya Rahul Patil",
+    "group": "A",
+    "timeTaken": 7.23,
+    "marks": 19,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1038",
+    "name": "Naitik Atul Patil",
+    "group": "A",
+    "timeTaken": 11.47,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1035",
+    "name": "Aryan Vinod Patil",
+    "group": "A",
+    "timeTaken": 9,
+    "marks": 26,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1022",
+    "name": "Piyush Prakash Patil",
+    "group": "A",
+    "timeTaken": 8.58,
+    "marks": 47,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-365",
+    "name": "Vansh Balu Chaudhari",
+    "group": "A",
+    "timeTaken": 7.59,
+    "marks": 26,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1064",
+    "name": "Ketan Valmik Patil",
+    "group": "A",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1012",
+    "name": "Yamini Sandip Mali",
+    "group": "A",
+    "timeTaken": 7.23,
+    "marks": 25,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1105",
+    "name": "Dimpal Prakash Chaudhari",
+    "group": "A",
+    "timeTaken": 8.16,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-964",
+    "name": "Ravinath Vinod Patil",
+    "group": "A",
+    "timeTaken": 15,
+    "marks": 24,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-569",
+    "name": "Harshal Chandrakant Patil",
+    "group": "A",
+    "timeTaken": 15,
+    "marks": 26,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-102",
+    "name": "Ilesh Bharat Patil",
+    "group": "A",
+    "timeTaken": 14.7,
+    "marks": 25,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1009",
+    "name": "Tejas Kishor Patil",
+    "group": "A",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-634",
+    "name": "Mitansh Rajendra Khernar",
+    "group": "A",
+    "timeTaken": 10.2,
+    "marks": 38,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-754",
+    "name": "Samarth Vinod Patil",
+    "group": "A",
+    "timeTaken": 11.06,
+    "marks": 30,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-618",
+    "name": "Sonakshi Ajay Nikam",
+    "group": "A",
+    "timeTaken": 10.36,
+    "marks": 29,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-375",
+    "name": "Aaradhya Ravindra Sonar",
+    "group": "A",
+    "timeTaken": 10.5,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1072",
+    "name": "Harshali Dipak Patil",
+    "group": "A",
+    "timeTaken": 13.8,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1107",
+    "name": "Moksh Suresh Thakur",
+    "group": "A",
+    "timeTaken": 5.6,
+    "marks": 29,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-890",
+    "name": "Durgesh Manoj Chaudhari",
+    "group": "A",
+    "timeTaken": 6.3,
+    "marks": 60,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1093",
+    "name": "Mahi Ravindra Patil",
+    "group": "A",
+    "timeTaken": 10.53,
+    "marks": 35,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1044",
+    "name": "Jay Dipak Patil",
+    "group": "A",
+    "timeTaken": 11.51,
+    "marks": 45,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-950",
+    "name": "Sana Akabar Tadavi",
+    "group": "A",
+    "timeTaken": 12.44,
+    "marks": 40,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-487",
+    "name": "Pratiksha Prakash Chaudhari",
+    "group": "A",
+    "timeTaken": 8.9,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-755",
+    "name": "Bhumika Mahendra Patil",
+    "group": "A",
+    "timeTaken": 10.53,
+    "marks": 22,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-487",
+    "name": "Kundan Prakash Patil",
+    "group": "A",
+    "timeTaken": 14.15,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-315",
+    "name": "Purvi Naval Patil",
+    "group": "A",
+    "timeTaken": 6.4,
+    "marks": 38,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-204",
+    "name": "Ishan Nandasing Patil",
+    "group": "A",
+    "timeTaken": 7.58,
+    "marks": 22,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-561",
+    "name": "Samarth Manoj Patil",
+    "group": "A",
+    "timeTaken": 12.55,
+    "marks": 35,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-231",
+    "name": "Rinku Ratilal Visan",
+    "group": "A",
+    "timeTaken": 13.26,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-484",
+    "name": "Prem Aanand Marathe",
+    "group": "A",
+    "timeTaken": 10.2,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-690",
+    "name": "Aditya Vasant Patil",
+    "group": "A",
+    "timeTaken": 11.14,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-864",
+    "name": "No Name",
+    "group": "A",
+    "timeTaken": 11.58,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-566",
+    "name": "Manoj Sahebrao Jogi",
+    "group": "A",
+    "timeTaken": 11.5,
+    "marks": 29,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-232",
+    "name": "Samarth Jayvant Patil",
+    "group": "A",
+    "timeTaken": 11.4,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-464",
+    "name": "Yadnesh Sandip Patil",
+    "group": "A",
+    "timeTaken": 13.49,
+    "marks": 48,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-674",
+    "name": "Piyush Dipak Patil",
+    "group": "A",
+    "timeTaken": 9.2,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-636",
+    "name": "Parikshit Ravi Bagul",
+    "group": "A",
+    "timeTaken": 9.4,
+    "marks": 35,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-185",
+    "name": "Apeksha Rohidas Patil",
+    "group": "A",
+    "timeTaken": 12.5,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-413",
+    "name": "Roshani Rajendra Jogi",
+    "group": "A",
+    "timeTaken": 12.46,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-85",
+    "name": "Pruthviraj Yogaraj Mahale",
+    "group": "A",
+    "timeTaken": 15,
+    "marks": 29,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-741",
+    "name": "Praful Sandip Patil",
+    "group": "A",
+    "timeTaken": 5.5,
+    "marks": 30,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-344",
+    "name": "Bhagyashri Ashok Patil",
+    "group": "A",
+    "timeTaken": 11.27,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-692",
+    "name": "Divya Dnyaneshwar Patil",
+    "group": "A",
+    "timeTaken": 9.27,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-780",
+    "name": "Dhiraj Jitendra Mahajan",
+    "group": "A",
+    "timeTaken": 7.58,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-689",
+    "name": "Ananya Laxman Telange",
+    "group": "A",
+    "timeTaken": 8.09,
+    "marks": 28,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-970",
+    "name": "No Name",
+    "group": "A",
+    "timeTaken": 10.1,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-400",
+    "name": "Kartik Sanjay Kalal",
+    "group": "A",
+    "timeTaken": 12.46,
+    "marks": 37,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-310",
+    "name": "Ved Rahul Chaudhari ",
+    "group": "B",
+    "timeTaken": 11.29,
+    "marks": 39,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-239",
+    "name": "Prathamesh Pravin Marathe ",
+    "group": "B",
+    "timeTaken": 10.2,
+    "marks": 32,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-335",
+    "name": "Keyur Parmod Patil ",
+    "group": "B",
+    "timeTaken": 15.5,
+    "marks": 34,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-350",
+    "name": "Jayaram Krishna Bhil",
+    "group": "B",
+    "timeTaken": 17,
+    "marks": 42,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-644",
+    "name": "Diksha Vinod Thakare",
+    "group": "B",
+    "timeTaken": 9.2,
+    "marks": 30,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-556",
+    "name": "Nivrutti liladhar Patil ",
+    "group": "B",
+    "timeTaken": 10.1,
+    "marks": 33,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-243",
+    "name": "Bhagyashri kishor Marathe ",
+    "group": "B",
+    "timeTaken": 8.48,
+    "marks": 35,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-105",
+    "name": "No Name ",
+    "group": "B",
+    "timeTaken": 12.05,
+    "marks": 35,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-536",
+    "name": "Bhavesh Sandip Patil",
+    "group": "B",
+    "timeTaken": 15.09,
+    "marks": 37,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-493",
+    "name": "No Name ",
+    "group": "B",
+    "timeTaken": 11.45,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-500",
+    "name": "Swaraj Bhavesh Patil",
+    "group": "B",
+    "timeTaken": 17.57,
+    "marks": 40,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-662",
+    "name": "Komal Harichandra Patil ",
+    "group": "B",
+    "timeTaken": 12.08,
+    "marks": 36,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-739",
+    "name": "Vaishnavi Jagdish Marathe ",
+    "group": "B",
+    "timeTaken": 11.27,
+    "marks": 39,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-538",
+    "name": "Pranjal Sandip patil",
+    "group": "B",
+    "timeTaken": 6.4,
+    "marks": 54,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-526",
+    "name": "Payal Sandip Patil",
+    "group": "B",
+    "timeTaken": 11.4,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-665",
+    "name": "Nikhil Dinesh Patil ",
+    "group": "B",
+    "timeTaken": 8.34,
+    "marks": 30,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-484",
+    "name": "Prem Ananda Marathe",
+    "group": "B",
+    "timeTaken": 14.3,
+    "marks": 43,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-860",
+    "name": "Ganesh Nitin Jadhav ",
+    "group": "B",
+    "timeTaken": 9.19,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1046",
+    "name": "Pornima Vasant Behare",
+    "group": "B",
+    "timeTaken": 8.35,
+    "marks": 36,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1025",
+    "name": "Yash Sandip Patil ",
+    "group": "B",
+    "timeTaken": 13.27,
+    "marks": 33,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-982",
+    "name": "Bhavesh Mangesh patil",
+    "group": "B",
+    "timeTaken": 19.57,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-984",
+    "name": "Mohit Dipak Patil",
+    "group": "B",
+    "timeTaken": 11.41,
+    "marks": 32,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1057",
+    "name": "Narendra Shantaram Patil ",
+    "group": "B",
+    "timeTaken": 11.33,
+    "marks": 41,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-488",
+    "name": "Ritesh Anil sonavane ",
+    "group": "B",
+    "timeTaken": 15.4,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-925",
+    "name": "Mohit Ganesh Patil ",
+    "group": "B",
+    "timeTaken": 12.22,
+    "marks": 45,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-642",
+    "name": "Aniket Mahendra Vanvane ",
+    "group": "B",
+    "timeTaken": 19.57,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-858",
+    "name": "Runali Dipak Patil ",
+    "group": "B",
+    "timeTaken": 12.25,
+    "marks": 53,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-827",
+    "name": "Karan Andanda patil",
+    "group": "B",
+    "timeTaken": 8.34,
+    "marks": 33,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-791",
+    "name": "Lavanya Gokul Patil ",
+    "group": "B",
+    "timeTaken": 11.45,
+    "marks": 32,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-826",
+    "name": "Yashashri Sunil Patil ",
+    "group": "B",
+    "timeTaken": 8,
+    "marks": 47,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-763",
+    "name": "Radhika Kishor Tayade",
+    "group": "B",
+    "timeTaken": 11,
+    "marks": 36,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-955",
+    "name": "Paresh Mahesh Lohar",
+    "group": "B",
+    "timeTaken": 12,
+    "marks": 48,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-439",
+    "name": "Vishwanatha Bhagavat Mahajan ",
+    "group": "B",
+    "timeTaken": 18.3,
+    "marks": 32,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-954",
+    "name": "Krishna Vijay Rathod",
+    "group": "B",
+    "timeTaken": 11.4,
+    "marks": 48,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-910",
+    "name": "Mrunali Vinod Birali",
+    "group": "B",
+    "timeTaken": 9.2,
+    "marks": 35,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-661",
+    "name": "Manaswi Mithun Bhoi",
+    "group": "B",
+    "timeTaken": 11.22,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-560",
+    "name": "Rishabh Sachin Bhoi",
+    "group": "B",
+    "timeTaken": 12.53,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-687",
+    "name": "Gunjan Rajendra Patil ",
+    "group": "B",
+    "timeTaken": 9.3,
+    "marks": 33,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-603",
+    "name": "Nisha Balu Patil",
+    "group": "B",
+    "timeTaken": 15.15,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-127",
+    "name": "Bhavesh Gorakhanath sonavane ",
+    "group": "B",
+    "timeTaken": 13.43,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-819",
+    "name": "Yadnesh Sachin Bhoi ",
+    "group": "B",
+    "timeTaken": 14.1,
+    "marks": 39,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1013",
+    "name": "Tejaswini Parvin Patil ",
+    "group": "B",
+    "timeTaken": 8,
+    "marks": 44,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-756",
+    "name": "Bhushan Parvin Patil",
+    "group": "B",
+    "timeTaken": 9.54,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-986",
+    "name": "Yashraj Sunil Sabale",
+    "group": "B",
+    "timeTaken": 10.3,
+    "marks": 35,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1041",
+    "name": "Nandini Dinesh sonavane ",
+    "group": "B",
+    "timeTaken": 13,
+    "marks": 39,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-772",
+    "name": "Pankaj Anil Patil ",
+    "group": "B",
+    "timeTaken": 9.5,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-958",
+    "name": "Arya Ashok Patil ",
+    "group": "B",
+    "timeTaken": 8.5,
+    "marks": 35,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1019",
+    "name": "Lavanya Ujwal Patil ",
+    "group": "B",
+    "timeTaken": 15.7,
+    "marks": 41,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1050",
+    "name": "Tanvi Balakrishna Mali",
+    "group": "B",
+    "timeTaken": 13.24,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-487",
+    "name": "Pratiksha Prakash Patil ",
+    "group": "B",
+    "timeTaken": 13.59,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1034",
+    "name": "Raksha Dipak Patil ",
+    "group": "B",
+    "timeTaken": 7.43,
+    "marks": 32,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-987",
+    "name": "Piyush Gulab Patil",
+    "group": "B",
+    "timeTaken": 14.28,
+    "marks": 47,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-1021",
+    "name": "Aditya Ravindra Jagtap",
+    "group": "B",
+    "timeTaken": 12.26,
+    "marks": 31,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-919",
+    "name": "Tushar Ravindra Chaudhari ",
+    "group": "B",
+    "timeTaken": 13.08,
+    "marks": 37,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "K-862",
+    "name": "Pallavi Raosaheb Patil",
+    "group": "B",
+    "timeTaken": 10,
+    "marks": 36,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "rollNo",
+    "name": "Student name ",
+    "group": "Group C",
+    "timeTaken": "timeTaken",
+    "marks": "marks",
+    "totalMarks": "totalMarks"
+  },
+  {
+    "rollNo": "K-671",
+    "name": "Yash Namdev Deore",
+    "group": "C",
+    "timeTaken": 10.33,
+    "marks": 62,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-98",
+    "name": "Shubham Bharat Patil ",
+    "group": "C",
+    "timeTaken": 9,
+    "marks": 81,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-480",
+    "name": "Chaitali kailas Chaudhari ",
+    "group": "C",
+    "timeTaken": 10,
+    "marks": 66,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-912",
+    "name": "Dimpal Babanarao Patil ",
+    "group": "C",
+    "timeTaken": 9.39,
+    "marks": 57,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-916",
+    "name": "Chaitali Mukesh Patil ",
+    "group": "C",
+    "timeTaken": 8.42,
+    "marks": 67,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-539",
+    "name": "Janavi Manohar Patil",
+    "group": "C",
+    "timeTaken": 9.5,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-376",
+    "name": "Ovi Mahendra Sonar ",
+    "group": "C",
+    "timeTaken": 9.51,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-54",
+    "name": "Shruti Nandu Mali",
+    "group": "C",
+    "timeTaken": 9.5,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-326",
+    "name": "Mohantesh Ravindra Patil ",
+    "group": "C",
+    "timeTaken": 14.45,
+    "marks": 45,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-670",
+    "name": "Diksha Namdev Deore ",
+    "group": "C",
+    "timeTaken": 6.7,
+    "marks": 84,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-114",
+    "name": "Chetan Vinod Patil ",
+    "group": "C",
+    "timeTaken": 7,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-459",
+    "name": "Pranav Sharad Patil ",
+    "group": "C",
+    "timeTaken": 10.5,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-818",
+    "name": "Rohini Sahebrao Mali ",
+    "group": "C",
+    "timeTaken": 9.33,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-371",
+    "name": "Tanmay Dinesh Patil ",
+    "group": "C",
+    "timeTaken": 13.7,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-580",
+    "name": "Piyush Dipak Chaudhari ",
+    "group": "C",
+    "timeTaken": 9.35,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-308",
+    "name": "Om Anil Patil ",
+    "group": "C",
+    "timeTaken": 11.34,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-280",
+    "name": "Tushar Sitaram Chaudhari ",
+    "group": "C",
+    "timeTaken": 14.5,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-417",
+    "name": "Dhananjay Ramchandra Lohar",
+    "group": "C",
+    "timeTaken": 12,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-915",
+    "name": "Tushal Narendra khairnar",
+    "group": "C",
+    "timeTaken": 9.36,
+    "marks": 49,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-322",
+    "name": "Priyanka Chandrakant Patil",
+    "group": "C",
+    "timeTaken": 10.28,
+    "marks": 59,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-556",
+    "name": "Bhumika Kiran Patil ",
+    "group": "C",
+    "timeTaken": 9.53,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-851",
+    "name": "Amay Vijay Patil ",
+    "group": "C",
+    "timeTaken": 14.5,
+    "marks": 64,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-374",
+    "name": "Devika Kiran Chaudhari",
+    "group": "C",
+    "timeTaken": 10.4,
+    "marks": 48,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "k-106",
+    "name": "Chetan Vikas Patil ",
+    "group": "C",
+    "timeTaken": 12.45,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-938",
+    "name": "Komal Shivaji Patil",
+    "group": "C",
+    "timeTaken": 10.44,
+    "marks": 48,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-645",
+    "name": "Umesh Lalit Chaudhari ",
+    "group": "C",
+    "timeTaken": 13,
+    "marks": 63,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-419",
+    "name": "Manavi Ravindra Deore ",
+    "group": "C",
+    "timeTaken": 7.35,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-157",
+    "name": "Lavanya Ravindra Deore ",
+    "group": "C",
+    "timeTaken": 7.17,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-83",
+    "name": "Bhushan Ravindra Patil ",
+    "group": "C",
+    "timeTaken": 12.3,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-688",
+    "name": "Gunjan Rajendra Patil ",
+    "group": "C",
+    "timeTaken": 7.4,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-525",
+    "name": "Sai Raghunath Patil ",
+    "group": "C",
+    "timeTaken": 10.28,
+    "marks": 43,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-884",
+    "name": "Pratiksha Vithhal Chaudhari ",
+    "group": "C",
+    "timeTaken": 9.28,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-759",
+    "name": "Vaibhavi Balu Mahajan ",
+    "group": "C",
+    "timeTaken": 7.09,
+    "marks": 68,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-746",
+    "name": "Bushra Asif kazi",
+    "group": "C",
+    "timeTaken": 8.56,
+    "marks": 47,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-766",
+    "name": "Yash Dnyaneshwar Patil ",
+    "group": "C",
+    "timeTaken": 15.18,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-145",
+    "name": "Neha Gunjan Patil",
+    "group": "C",
+    "timeTaken": 9.1,
+    "marks": 82,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-223",
+    "name": "Vaishnavi kailas Mahajan ",
+    "group": "C",
+    "timeTaken": 12.34,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-117",
+    "name": "Karan Gulab Patil ",
+    "group": "C",
+    "timeTaken": 8.44,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-355",
+    "name": "Vinit Dipak Patil ",
+    "group": "C",
+    "timeTaken": 12.38,
+    "marks": 53,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-747",
+    "name": "Ashmira Javid Kazi",
+    "group": "C",
+    "timeTaken": 6.57,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-485",
+    "name": "Mohit Vishal Patil",
+    "group": "C",
+    "timeTaken": 17.5,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-535",
+    "name": "Pratiksha Janraj Bhoi",
+    "group": "C",
+    "timeTaken": 10.35,
+    "marks": 45,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-564",
+    "name": "Divesh Ganesh kumbhar ",
+    "group": "C",
+    "timeTaken": 14.11,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-373",
+    "name": "Gayatri Kiran Chaudhari ",
+    "group": "C",
+    "timeTaken": 8.35,
+    "marks": 48,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-703",
+    "name": "Shlok Rahul sonavane ",
+    "group": "C",
+    "timeTaken": 10.49,
+    "marks": 47,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-420",
+    "name": "Lalit Yogesh Mahajan",
+    "group": "C",
+    "timeTaken": 12.41,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-451",
+    "name": "Chaitanya Jitendra Chavan ",
+    "group": "C",
+    "timeTaken": 9.58,
+    "marks": 78,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-318",
+    "name": "Yash Ananda Patil ",
+    "group": "C",
+    "timeTaken": 9.27,
+    "marks": 41,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-996",
+    "name": "No Name ",
+    "group": "C",
+    "timeTaken": 8.24,
+    "marks": 49,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-796",
+    "name": "Jagruti Kishor Mali ",
+    "group": "C",
+    "timeTaken": 13.08,
+    "marks": 65,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-414",
+    "name": "Minakshi Dilip Jogi ",
+    "group": "C",
+    "timeTaken": 11.26,
+    "marks": 65,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-235",
+    "name": "Vijendra Dnyaneshwar Shinde ",
+    "group": "C",
+    "timeTaken": 14.14,
+    "marks": 53,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-72",
+    "name": "Devyani SumerSingh Pati ",
+    "group": "C",
+    "timeTaken": 9.35,
+    "marks": 65,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-180",
+    "name": "Vaishnavi Mayur Patil ",
+    "group": "C",
+    "timeTaken": 10.36,
+    "marks": 45,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-62",
+    "name": "Pranita Ravindra Pati ",
+    "group": "C",
+    "timeTaken": 3.42,
+    "marks": 59,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-413",
+    "name": "Roshani Rajendra Jogi ",
+    "group": "C",
+    "timeTaken": 10.43,
+    "marks": 47,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-200",
+    "name": "Ritesh Suresh Mahajan ",
+    "group": "C",
+    "timeTaken": 12.07,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-236",
+    "name": "Kamini Vithhal Patil ",
+    "group": "C",
+    "timeTaken": 10.35,
+    "marks": 56,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-176",
+    "name": "Lokesh Dnyaneshwar Sutar ",
+    "group": "C",
+    "timeTaken": 12.5,
+    "marks": 48,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-131",
+    "name": "Pratidnya Rajendra Patil ",
+    "group": "C",
+    "timeTaken": 11.12,
+    "marks": 75,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-507",
+    "name": "Tanuja Manoj Patil ",
+    "group": "C",
+    "timeTaken": 9.03,
+    "marks": 59,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-415",
+    "name": "Ankita Aatmaram Patil ",
+    "group": "C",
+    "timeTaken": 10.1,
+    "marks": 61,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-95",
+    "name": "Rohit Dnyaneshwar Patil ",
+    "group": "C",
+    "timeTaken": 9,
+    "marks": 65,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-241",
+    "name": "Lavanya Dinesh Patil",
+    "group": "C",
+    "timeTaken": 6.43,
+    "marks": 82,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-295",
+    "name": "Janhavi Amol Patil ",
+    "group": "C",
+    "timeTaken": 16.52,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-529",
+    "name": "Purvi Darshan Marathe ",
+    "group": "C",
+    "timeTaken": 10.08,
+    "marks": 58,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-141",
+    "name": "Divesh Arun Shinde",
+    "group": "C",
+    "timeTaken": 7.57,
+    "marks": 53,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-297",
+    "name": "Riya Eknath Patil ",
+    "group": "C",
+    "timeTaken": 9.45,
+    "marks": 48,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-637",
+    "name": "Dnyaneshwari Gajanan Patil ",
+    "group": "C",
+    "timeTaken": 10.07,
+    "marks": 54,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-354",
+    "name": "Akshara Nithin sonavane ",
+    "group": "C",
+    "timeTaken": 10.47,
+    "marks": 49,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-196",
+    "name": "Kirti Yogesh chavan ",
+    "group": "C",
+    "timeTaken": 10.58,
+    "marks": 55,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-130",
+    "name": "Kalyani bhagavan Patil ",
+    "group": "C",
+    "timeTaken": 9.22,
+    "marks": 76,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-175",
+    "name": "Shreya Adhikar Kapure",
+    "group": "C",
+    "timeTaken": 11.14,
+    "marks": 53,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-393",
+    "name": "Tejaswini Rajendra Jogi",
+    "group": "C",
+    "timeTaken": 9.24,
+    "marks": 54,
+    "totalMarks": 100
+  }
+]

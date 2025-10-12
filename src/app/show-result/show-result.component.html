@@ -1,0 +1,147 @@
+<!-- show-result.component.html -->
+<header class="headerr">
+  <img src="pravakta-logo.png" alt="Logo" class="header-logo" />
+  <span class="header-title">Grammer Competition Results</span>
+</header>
+<div class="portal-container">
+  <!-- Header -->
+  <div class="header">
+    <img class="header-icon" width="40" height="40" viewBox="0 0 24 24" src="pravakta-logo.png" alt="logo">
+    <!-- <div class="header-icon">
+        
+      <svg xmlns="pravakta-logo.png" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="8" r="6"></circle>
+        <path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"></path>
+      </svg>
+    </div> -->
+    <h1 class="title">District Level Grammar Competition </h1>
+    <p class="subtitle">By Pravakta Academy</p>
+  </div>
+
+  <!-- Search Box -->
+  <div class="search-container">
+    <div class="search-box">
+      <input
+        type="text"
+        placeholder="Enter Roll Number (e.g., K-101, E-201)"
+        [(ngModel)]="rollNumber"
+        (keypress)="onKeyPress($event)"
+        class="search-input"
+      />
+      <button 
+        (click)="fetchResult()" 
+        [disabled]="loading || !rollNumber.trim()"
+        class="search-button"
+      >
+        <span *ngIf="loading" class="loading-spinner"></span>
+        <span>{{ loading ? 'Loading...' : 'Check Result' }}</span>
+      </button>
+    </div>
+
+    <div *ngIf="error" class="error-message">
+      {{ error }}
+    </div>
+  </div>
+
+  <!-- Result Card -->
+  <div *ngIf="showResult && student" class="result-section">
+    <!-- Main Result Card -->
+    <div class="result-card">
+      <div class="result-header">
+        <h2 class="student-name">{{ student.name }}</h2>
+        <p class="student-info">Roll No: {{ student.rollNo }} • Group {{ student.group }}</p>
+      </div>
+
+      <div class="result-body">
+        <!-- Grade Badge -->
+        <div class="grade-container">
+          <div 
+            class="grade-badge" 
+            [style.background-color]="getGrade().bg"
+            [style.color]="getGrade().color"
+          >
+            Grade: {{ getGrade().grade }}
+          </div>
+        </div>
+
+        <!-- Progress Bar -->
+        <div class="progress-container">
+          <div class="progress-header">
+            <span class="progress-label">Score Progress</span>
+            <span class="progress-percentage">{{ getPercentage().toFixed(1) }}%</span>
+          </div>
+          <div class="progress-bar-bg">
+            <div 
+              class="progress-bar-fill" 
+              [style.width.%]="getPercentage()"
+            ></div>
+          </div>
+        </div>
+
+        <!-- Stats Grid -->
+        <div class="stats-grid ">
+          <div class="stat-card stat-blue">
+            <div class="stat-header">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+              </svg>
+              <span class="stat-label">Marks</span>
+            </div>
+            <p class="stat-value">{{ student.marks }}/{{ getTotalMarks(student.group) }}</p>
+          </div>
+
+          <!-- <div class="stat-card stat-purple">
+            <div class="stat-header">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"></polyline>
+                <polyline points="16 7 22 7 22 13"></polyline>
+              </svg>
+              <span class="stat-label">Rank</span>
+            </div>
+            <p class="stat-value">#{{ student.rank }}</p>
+          </div> -->
+
+          <div class="stat-card stat-green">
+            <div class="stat-header">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polyline points="12 6 12 12 16 14"></polyline>
+              </svg>
+              <span class="stat-label">Time</span>
+            </div>
+            <p class="stat-value">{{ student.timeTaken }}/15 min</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Winners Card -->
+    <div *ngIf="winners.length" class="winners-card">
+      <div class="winners-header">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="8" r="6"></circle>
+          <path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"></path>
+        </svg>
+        <h3 class="winners-title">Top 3 Performers - Group {{ student.group }}</h3>
+      </div>
+
+      <div class="winners-list">
+        <div 
+          *ngFor="let winner of winners; let i = index" 
+          class="winner-item"
+          [class.winner-highlight]="winner.rollNo === student.rollNo"
+        >
+          <span class="medal">{{ getMedal(i) }}</span>
+          <div class="winner-info">
+            <span class="winner-name">{{ winner.name }}</span>
+            <span class="winner-roll">{{ winner.rollNo }}</span>
+          </div>
+          <div class="winner-stats">
+            <span class="winner-marks">{{ winner.marks }} marks</span>
+            <span class="winner-time">{{ winner.timeTaken }} min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
