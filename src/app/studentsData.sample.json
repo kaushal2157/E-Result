@@ -1,0 +1,362 @@
+[
+  {
+    "rollNo": "J-101",
+    "name": "Siya Pawar",
+    "group": "A",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 9.7,
+    "marks": 29,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "J-102",
+    "name": "Rohan Sonar",
+    "group": "A",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 13.4,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "J-103",
+    "name": "Anaya Shinde",
+    "group": "A",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 7.1,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "J-104",
+    "name": "Kabir Mahajan",
+    "group": "B",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 10.8,
+    "marks": 46,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "J-105",
+    "name": "Ira Chaudhari",
+    "group": "B",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 14.5,
+    "marks": 48,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "J-106",
+    "name": "Vedant Patil",
+    "group": "B",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 8.2,
+    "marks": 50,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "J-107",
+    "name": "Myra Pawar",
+    "group": "C",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 11.9,
+    "marks": 66,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "J-108",
+    "name": "Arjun Sonar",
+    "group": "C",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 6.6,
+    "marks": 69,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "J-109",
+    "name": "Tara Shinde",
+    "group": "C",
+    "department": "English Medium",
+    "city": "Jalgaon",
+    "timeTaken": 9.3,
+    "marks": 72,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "J-110",
+    "name": "Yash Mahajan",
+    "group": "A",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 13,
+    "marks": 45,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "J-111",
+    "name": "Diya Chaudhari",
+    "group": "A",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 6.7,
+    "marks": 47,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "J-112",
+    "name": "Aarav Patil",
+    "group": "A",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 10.4,
+    "marks": 49,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "J-113",
+    "name": "Siya Pawar",
+    "group": "B",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 14.1,
+    "marks": 67,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "J-114",
+    "name": "Rohan Sonar",
+    "group": "B",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 7.8,
+    "marks": 70,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "J-115",
+    "name": "Anaya Shinde",
+    "group": "B",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 11.5,
+    "marks": 72,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "J-116",
+    "name": "Kabir Mahajan",
+    "group": "C",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 6.2,
+    "marks": 93,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "J-117",
+    "name": "Ira Chaudhari",
+    "group": "C",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 8.9,
+    "marks": 46,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "J-118",
+    "name": "Vedant Patil",
+    "group": "C",
+    "department": "Marathi Medium",
+    "city": "Jalgaon",
+    "timeTaken": 12.6,
+    "marks": 49,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-119",
+    "name": "Myra Pawar",
+    "group": "A",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 6.3,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "D-120",
+    "name": "Arjun Sonar",
+    "group": "A",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 10,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "D-121",
+    "name": "Tara Shinde",
+    "group": "A",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 13.7,
+    "marks": 35,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "D-122",
+    "name": "Yash Mahajan",
+    "group": "B",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 7.4,
+    "marks": 49,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "D-123",
+    "name": "Diya Chaudhari",
+    "group": "B",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 11.1,
+    "marks": 51,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "D-124",
+    "name": "Aarav Patil",
+    "group": "B",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 14.8,
+    "marks": 54,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "D-125",
+    "name": "Siya Pawar",
+    "group": "C",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 8.5,
+    "marks": 70,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-126",
+    "name": "Rohan Sonar",
+    "group": "C",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 12.2,
+    "marks": 73,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-127",
+    "name": "Anaya Shinde",
+    "group": "C",
+    "department": "English Medium",
+    "city": "Dhule",
+    "timeTaken": 6.9,
+    "marks": 76,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-128",
+    "name": "Kabir Mahajan",
+    "group": "A",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 9.6,
+    "marks": 47,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "D-129",
+    "name": "Ira Chaudhari",
+    "group": "A",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 13.3,
+    "marks": 49,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "D-130",
+    "name": "Vedant Patil",
+    "group": "A",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 7,
+    "marks": 51,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "D-131",
+    "name": "Myra Pawar",
+    "group": "B",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 10.7,
+    "marks": 70,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "D-132",
+    "name": "Arjun Sonar",
+    "group": "B",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 14.4,
+    "marks": 73,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "D-133",
+    "name": "Tara Shinde",
+    "group": "B",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 8.1,
+    "marks": 75,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "D-134",
+    "name": "Yash Mahajan",
+    "group": "C",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 11.8,
+    "marks": 47,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-135",
+    "name": "Diya Chaudhari",
+    "group": "C",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 6.5,
+    "marks": 50,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-136",
+    "name": "Aarav Patil",
+    "group": "C",
+    "department": "Marathi Medium",
+    "city": "Dhule",
+    "timeTaken": 9.2,
+    "marks": 53,
+    "totalMarks": 100
+  }
+]
