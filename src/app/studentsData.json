@@ -1,1498 +1,5192 @@
- [
+[
   {
-    "rollNo": "K-570",
-    "name": "Krishna Bhausaheb Patil",
+    "rollNo": "E-1235",
+    "name": "Bhavesh Ravindra Pawar",
     "group": "A",
-    "timeTaken": 10.35,
-    "marks": 38,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1006",
-    "name": "Prathamesh Lalasingh Shinde",
-    "group": "A",
-    "timeTaken": 15,
-    "marks": 25,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-245",
-    "name": "Krishna Sunil Bane",
-    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
     "timeTaken": 15,
     "marks": 31,
-    "totalMarks": 60
+    "totalMarks": 50
   },
   {
-    "rollNo": "K-785",
-    "name": "Tanushka Tushar Chaudhari",
+    "rollNo": "E-1237",
+    "name": "Harshal pavan sapakade",
     "group": "A",
-    "timeTaken": 10.53,
-    "marks": 30,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-573",
-    "name": "Divya Prashant Patil",
-    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
     "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1040",
+    "name": "Lavanya ravindra Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 6.57,
+    "marks": 49,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1064",
+    "name": "Darshan bhikan patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 40,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1216",
+    "name": "Vijay Chhagan Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.53,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1120",
+    "name": "Manish Yogesh Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 10.22,
+    "marks": 46,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1121",
+    "name": "Durgesh Vijay Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 10.42,
+    "marks": 43,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-466",
+    "name": "Farhan Salman pinjari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12.2,
+    "marks": 33,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1129",
+    "name": "Sai shamrao patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 10.37,
+    "marks": 40,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1200",
+    "name": "Manav Gajanan Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 8.37,
+    "marks": 35,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-398",
+    "name": "Tejas Ravindra Jogi",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12.15,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1096",
+    "name": "Sarita champalal pawara",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-619",
+    "name": "Lavanya ravindra patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-772",
+    "name": "Juned shaikh musim",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1100",
+    "name": "Nilesh Parshuram pawara",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 46,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1178",
+    "name": "Soni Parshuram pawara",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 8.26,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-887",
+    "name": "Manish Lakshman Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 38,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-912",
+    "name": "Ishan r marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 41,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1033",
+    "name": "Meghana satish mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.11,
+    "marks": 42,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1201",
+    "name": "Om Gopal mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.2,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1093",
+    "name": "Uday Satish chitte",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1054",
+    "name": "Tanushka Krishna Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1053",
+    "name": "Ruhi krishna patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11.3,
+    "marks": 34,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1110",
+    "name": "savita sarpya pawara",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1127",
+    "name": "Somnath Raju marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 13.1,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1355",
+    "name": "Siddhi Chetan More",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1258",
+    "name": "Sagar Mahendra gadariya",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 8.37,
+    "marks": 40,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-896",
+    "name": "Somesh Sharad Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12.3,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1271",
+    "name": "Devyani Yograj patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 47,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-2014",
+    "name": "Ayan raja ibhraim maniyar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1200",
+    "name": "Abujar shaikh akabar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 39,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-616",
+    "name": "Bhavesh dattu marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1327",
+    "name": "Dhanashri ravindra patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 8.26,
+    "marks": 46,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1306",
+    "name": "Advika sachin sonavane",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 34,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1282",
+    "name": "Tanvi shubham patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 33,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1270",
+    "name": "Tanmay yogesh patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 35,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1328",
+    "name": "Om bhaiya bhoi",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 33,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1268",
+    "name": "Rakesh vikas patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 36,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1234",
+    "name": "Nitya dipak pawar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 8.26,
+    "marks": 48,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-3214",
+    "name": "Mayank dipak patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 33,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1142",
+    "name": "Chetan ravindra chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-777",
+    "name": "Rahul savaipuri goswami",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.48,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1278",
+    "name": "Tejaswari Dnyaneshwar patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 48,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-124",
+    "name": "Yash dhaneshwar dhanagar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 7.14,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-77",
+    "name": "Swara kishor deshmukh",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 7.15,
+    "marks": 50,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-78",
+    "name": "Devesh kishor deshmukh",
+    "group": "A",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.26,
+    "marks": 34,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1192",
+    "name": "Sai Ishwar Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 34,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1113",
+    "name": "Samrat Sachin sapkale",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1208",
+    "name": "Homesh Ramchandra Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1112",
+    "name": "Siddharth Sachin sabkade",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.21,
+    "marks": 33,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-961",
+    "name": "Dnyaneshwari Vishwas Choudhari",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.5,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1227",
+    "name": "Niranjan Ananda Mahajan",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11.16,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1142",
+    "name": "Piyush jijabrao Mahajan",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11.34,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1095",
+    "name": "Jagruti Champalal pawara",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.12,
+    "marks": 34,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1184",
+    "name": "Mayank Amol Gayakawad",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 10.5,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1193",
+    "name": "Devendra Vitthal Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.31,
+    "marks": 46,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1205",
+    "name": "Jayesh Ravindra Deshmukh",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 10.17,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1108",
+    "name": "Pankaj Ravindra Sutar",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 7.11,
+    "marks": 33,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1165",
+    "name": "Amruta Vishal Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 7.7,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1083",
+    "name": "Sai Nitin Mahajan",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 8.1,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1141",
+    "name": "Pranali bapu bhoi",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 6.38,
+    "marks": 42,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1135",
+    "name": "Khushi Shantaram Bhoi",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 6.23,
+    "marks": 42,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1102",
+    "name": "Inaya Hussain pinjari",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1216",
+    "name": "Bhavesh Manoj Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12.37,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1189",
+    "name": "Darshan Janardan sapakade",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 13.34,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-989",
+    "name": "Harshal Shailendra Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.14,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1065",
+    "name": "Disha bhikan patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12.2,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1225",
+    "name": "Manasi sachin patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-745",
+    "name": "Pavan ajay chavan",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.25,
+    "marks": 38,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1147",
+    "name": "Kashish Mahendra randive",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.1,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1094",
+    "name": "Sayali satich chitte",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11.12,
+    "marks": 42,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1086",
+    "name": "Gaytri Rahul Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 37,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1207",
+    "name": "Harshada Ramchandra Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 6.49,
+    "marks": 48,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1139",
+    "name": "Lavanya Vikas Chaudhari",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.45,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1316",
+    "name": "Jayesh gulab Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.46,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1255",
+    "name": "Uzeaf maniyar",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1333",
+    "name": "Faijal maniyar",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1207",
+    "name": "Sushant Amar deore Vaibhav dnyaneshwar golange",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1313",
+    "name": "vaibhav dnyaneshwar golange",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 44,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1288",
+    "name": "hasnain khaikh maniyar",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1238",
+    "name": "khushi dhanraj chaudhari",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 7.41,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1252",
+    "name": "mursalin khaikh musthaque",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1336",
+    "name": "naresh ganesh patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 46,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-72",
+    "name": "Srushti Vikas Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.3,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-63",
+    "name": "Abhishek Sanjay mahale",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-123",
+    "name": "Pranav Manoj Kodi",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-75",
+    "name": "Rohit Ganesh bhoi",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-57",
+    "name": "Prathamesh Ravindra Marathe",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-115",
+    "name": "Mahesh Satish Choudhari",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 33,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-92",
+    "name": "Pratik Sachin Bhoi",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.33,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-66",
+    "name": "Tanvi Yogesh Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-91",
+    "name": "Siddhi Anil bhoi",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 6.34,
+    "marks": 44,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-130",
+    "name": "Hemraj Gajanan Koli",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 7.35,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-74",
+    "name": "Mansi Ganesh bhoi",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 7.51,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-89",
+    "name": "Devendra Mahendra Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 10.39,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-102",
+    "name": "Harshal Sachin Bhoi",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 8.19,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-131",
+    "name": "Alpesh Valmik Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 6.12,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-119",
+    "name": "Bhargavi Rahul Patil",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 7.7,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-70",
+    "name": "Ashwini Arun kandekar",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 8.44,
+    "marks": 31,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-61",
+    "name": "Hitesh Dhanaraj Mahajan",
+    "group": "B",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1075",
+    "name": "Varsha Jagdish Mahajan",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12.32,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1138",
+    "name": "Piyush Nana ahire",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 34,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1211",
+    "name": "Hemant Yogesh Mane",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1146",
+    "name": "Roshani Mahendra Jadhav",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 33,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1123",
+    "name": "Pradnya Avinash Patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-813",
+    "name": "Bhavika Jitendra Patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-673",
+    "name": "Bhagyashre Ravindra Patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 36,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1169",
+    "name": "Anil Vinod vanjari",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 34,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1179",
+    "name": "Manavi Ganesh Patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 36,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-812",
+    "name": "Chetan Mahendra Patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.55,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1071",
+    "name": "Krishna Devdas Patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12.46,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-874",
+    "name": "Dnyaneshwar gunvant Mali",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11.44,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1046",
+    "name": "Nithya Pankaj Mahajan",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11.16,
+    "marks": 37,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1223",
+    "name": "Aditya Nilesh Chaudhari",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.39,
+    "marks": 66,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-546",
+    "name": "Anas Arif pinjari",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.6,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1182",
+    "name": "Durgesh machindra salunkhe",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 1046,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1206",
+    "name": "Naitik Vilas Deshmukh",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.6,
+    "marks": 35,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-128",
+    "name": "Himanshu Amol Thakur",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1142",
+    "name": "Piyush jijabarao mahajan",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 13.53,
+    "marks": 32,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1099",
+    "name": "Shubham Dhanraj Sutar",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1187",
+    "name": "Shraddha Dipak Pawar",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1156",
+    "name": "Hemangi Sanjay chaudhari",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-503",
+    "name": "Manasi ajay tirole",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-1267",
+    "name": "Diparaj ravindra patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 13.53,
+    "marks": 37,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-1015",
+    "name": "Mohmmad raza s.k ebrahim manyar",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 34,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-886",
+    "name": "Durgesh sandip devre",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 33,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-628",
+    "name": "Nayan rahul patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-1223",
+    "name": "Mahendra shimpi",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-1248",
+    "name": "Chaitanya shinde",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 10.46,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-636",
+    "name": "Aaisha rupesh sonawane",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 4.36,
+    "marks": 67,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-995",
+    "name": "Purvansh anil Patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11.8,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-1299",
+    "name": "Bhumika naresh patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 13.47,
+    "marks": 34,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-1120",
+    "name": "Dhanashri yogesh patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.26,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-932",
+    "name": "Bhagyashree vijay Mahajan",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "K-1194",
+    "name": "Bhavika Ganesh chaudhari",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 39,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-99",
+    "name": "Chetan madhukar kumbhar",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 66,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-93",
+    "name": "Vinayak devidas patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 11.48,
+    "marks": 37,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-71",
+    "name": "Kunal samadhan marathe",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.26,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-73",
+    "name": "Viraj vikas tayade",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 9.28,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-69",
+    "name": "Pragya sagar mahajan",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 40,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-14",
+    "name": "Darshan sharad mahale",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-52",
+    "name": "Yog abhijeet chavhan",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-62",
+    "name": "Divesh samadhan Dhangar",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 12.38,
+    "marks": 32,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-11",
+    "name": "Kaivalya kamlesh porwal",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 35,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-64",
+    "name": "Yogini Sanjay mahale",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-122",
+    "name": "Chetan Mahendra mahale",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-59",
+    "name": "Darshan Sunil Mahajan",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-104",
+    "name": "Dipraj pravin patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-94",
+    "name": "Namrata Manohar patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 14.4,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-36",
+    "name": "Samarth rakesh patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-86",
+    "name": "Jayashree dipak koli",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 32,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-98",
+    "name": "Vaishanavi Narendra kumbhar",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 13.53,
+    "marks": 33,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-96",
+    "name": "Khushal sanjay koli",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 33,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-76",
+    "name": "Vedant arun patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 13.51,
+    "marks": 31,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "M-85",
+    "name": "Prachi sachin patil",
+    "group": "C",
+    "department": "Basic",
+    "city": "Kasoda",
+    "timeTaken": 13.5,
+    "marks": 30,
+    "totalMarks": 70
+  },
+  {
+    "rollNo": "E-1010",
+    "name": "Durgesh badgujar",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.57,
+    "marks": 32,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-759",
+    "name": "Nakul laxman telange",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.57,
+    "marks": 29,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1117",
+    "name": "Bhushan bhagchand vanjari",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.54,
+    "marks": 48,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1067",
+    "name": "Prashant Dnyaneshwar sangale",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.14,
+    "marks": 28,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1153",
+    "name": "Pranali sandip patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.4,
+    "marks": 27,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1110",
+    "name": "Vaidehi deepak Tawade",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.9,
+    "marks": 26,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-848",
+    "name": "Savani Jitendra Patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.53,
+    "marks": 27,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-93",
+    "name": "Harshali vishvas chaudhari",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.16,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-978",
+    "name": "Pranjali Dnyaneshwar mahajan",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.47,
+    "marks": 29,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1017",
+    "name": "Tejas himmat mahajan",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.2,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-707",
+    "name": "Harshal pawar",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.48,
+    "marks": 27,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1102",
+    "name": "Advik nitin patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 3.52,
+    "marks": 26,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1185",
+    "name": "Khushi sham patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.3,
+    "marks": 27,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1279",
+    "name": "Soham yogesh patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.26,
+    "marks": 42,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1059",
+    "name": "Priyanka manik pawar",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.56,
+    "marks": 30,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1275",
+    "name": "Rina bhaidas chaudhari",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.56,
+    "marks": 27,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1240",
+    "name": "Harshvardhan nilesh chaudhri",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.56,
+    "marks": 28,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1027",
+    "name": "Naksh bhagyasaheb patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.27,
+    "marks": 25,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "k-1025",
+    "name": "Purvi Avinash Patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.56,
+    "marks": 26,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "K-1329",
+    "name": "sukhdev dattu birela",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.8,
+    "marks": 27,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "k-1251",
+    "name": "gaurav shubham patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 24,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "k-1131",
+    "name": "komal more",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.39,
+    "marks": 18,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-35",
+    "name": "Aarti rakesh patil",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.47,
+    "marks": 33,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-114",
+    "name": "Harshad kailas marathe",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 25,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "M-116",
+    "name": "Kartik bapu dhangar",
+    "group": "A",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.5,
+    "marks": 44,
+    "totalMarks": 50
+  },
+  {
+    "rollNo": "E-1173",
+    "name": "Tejaswini sambhaji patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.29,
+    "marks": 41,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1016",
+    "name": "Vaishnavi dinesh patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.38,
+    "marks": 35,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-899",
+    "name": "Namrata bapu patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.15,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1122",
+    "name": "Himanshu avinash patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.11,
     "marks": 32,
     "totalMarks": 60
   },
   {
-    "rollNo": "K-517",
-    "name": "Vaishnavi Amol Chaudhari",
-    "group": "A",
-    "timeTaken": 9.54,
-    "marks": 36,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-572",
-    "name": "Vidhi Prashant Patil",
-    "group": "A",
-    "timeTaken": 12.34,
-    "marks": 27,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-107",
-    "name": "Tejashri Sandip Chaudhari",
-    "group": "A",
-    "timeTaken": 13.14,
-    "marks": 34,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-758",
-    "name": "Ganesh Bhaidas Mhaske",
-    "group": "A",
-    "timeTaken": 13.34,
-    "marks": 33,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1071",
-    "name": "Maheshwari Ravindra Patil",
-    "group": "A",
-    "timeTaken": 7.17,
-    "marks": 33,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-305",
-    "name": "Lavnya Rahul Patil",
-    "group": "A",
-    "timeTaken": 7.23,
-    "marks": 19,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1038",
-    "name": "Naitik Atul Patil",
-    "group": "A",
-    "timeTaken": 11.47,
+    "rollNo": "E-1106",
+    "name": "Mayur tarachand patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.41,
     "marks": 31,
     "totalMarks": 60
   },
   {
-    "rollNo": "K-1035",
-    "name": "Aryan Vinod Patil",
-    "group": "A",
-    "timeTaken": 9,
-    "marks": 26,
+    "rollNo": "E-843",
+    "name": "Khushbu ratibhavan kevat",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.12,
+    "marks": 32,
     "totalMarks": 60
   },
   {
-    "rollNo": "K-1022",
-    "name": "Piyush Prakash Patil",
-    "group": "A",
-    "timeTaken": 8.58,
+    "rollNo": "E-1222",
+    "name": "Pallavi nilesh chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.8,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-967",
+    "name": "Ritesh ravindra sonawane",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.55,
+    "marks": 42,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1087",
+    "name": "Samarth vijay pawar",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.48,
+    "marks": 43,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-689",
+    "name": "Anaya laxman telange",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.55,
+    "marks": 40,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-604",
+    "name": "Rupesh aanand patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-685",
+    "name": "Snehal devidas mahajan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.27,
+    "marks": 38,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-181",
+    "name": "Shraddha shrikant patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.15,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-487",
+    "name": "Kundan prakash Patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.55,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1191",
+    "name": "Aman nawaz shaik ahemad",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.27,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1203",
+    "name": "Dhruv pravin patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.27,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1068",
+    "name": "Raj sandip mahajan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.15,
+    "marks": 37,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-950",
+    "name": "Bhavesh vinod marathe",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.55,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-54",
+    "name": "Soham vasudev pawar",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.37,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1088",
+    "name": "Tanmay manohar thakur",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1111",
+    "name": "Harshal vijay patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.6,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-994",
+    "name": "Mohit Mahendra Patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.14,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-854",
+    "name": "Prem rajendra jadhav",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.29,
+    "marks": 37,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-456",
+    "name": "Pratham Mahendra mahajan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.57,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1124",
+    "name": "Pratiksha bhaskar patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.35,
+    "marks": 41,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-617",
+    "name": "Aakash ravindra patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.59,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1090",
+    "name": "Tanmay ramesh patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.11,
+    "marks": 41,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1079",
+    "name": "Yash anil chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.12,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-904",
+    "name": "Aaradhya Sunil Mahajan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.41,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-614",
+    "name": "Harshit amol gayakwad",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.29,
+    "marks": 37,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-494",
+    "name": "Vivek ashok patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.55,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-671",
+    "name": "Gayatri vishal mahajan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 3.43,
+    "marks": 38,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-824",
+    "name": "Gunjan anil mali",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-363",
+    "name": "Bhavesh devidas patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.1,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-807",
+    "name": "Dhiraj gopal badgujar",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.18,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1144",
+    "name": "Siddhant ravsaheb patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.31,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1152",
+    "name": "Rishab sandip dhangar",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 39,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1002",
+    "name": "Pravin sham patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.54,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-629",
+    "name": "Lavanya vijay marathe",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.26,
+    "marks": 39,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-449",
+    "name": "Dhanashri ravindra patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.11,
+    "marks": 49,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1092",
+    "name": "Jayesh ganesh Patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.37,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1097",
+    "name": "Dhananjay yograj patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.38,
+    "marks": 35,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-518",
+    "name": "Vaishnavi shrihari marathe",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.58,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1128",
+    "name": "Harshal rajendra mahajan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.58,
+    "marks": 38,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-334",
+    "name": "Naitik karan pardeshi",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.26,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-645",
+    "name": "Umer javed pinjari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.25,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-566",
+    "name": "Manoj sahebrav jogi",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.38,
+    "marks": 41,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-453",
+    "name": "Pratik vijay mahajan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11.11,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1125",
+    "name": "Disha bhaskar patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.2,
+    "marks": 35,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-598",
+    "name": "Nikhil vilas chavhan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6,
+    "marks": 46,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-454",
+    "name": "Gayatri rahul mahajan",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.1,
+    "marks": 30,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-164",
+    "name": "Pradnya milind raysing",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.29,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-1146",
+    "name": "Siddhi vinod patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.55,
+    "marks": 39,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "E-571",
+    "name": "Amol gopal jogi",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.18,
     "marks": 47,
     "totalMarks": 60
   },
   {
-    "rollNo": "K-365",
-    "name": "Vansh Balu Chaudhari",
-    "group": "A",
-    "timeTaken": 7.59,
-    "marks": 26,
+    "rollNo": "K-1007",
+    "name": "Tejas mistari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11.35,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-638",
+    "name": "Mayank sachin sonawane",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.2,
+    "marks": 37,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1261",
+    "name": "Guari prashant chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11.8,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-618",
+    "name": "Sonakshi ajay nikam",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.36,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-251",
+    "name": "Chaitali bhaskar patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 12.49,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1315",
+    "name": "Purvanshee vishwajeet patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.53,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-895",
+    "name": "Nandini sharad Patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.13,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1158",
+    "name": "Yashodip naresh patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.54,
+    "marks": 37,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1006",
+    "name": "Prathamesh lalsing sinde",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.39,
+    "marks": 41,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-445",
+    "name": "Kanhaiya mahanubhav",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 15,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1183",
+    "name": "Dimpal ravindra patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.38,
+    "marks": 41,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1296",
+    "name": "Jayesh sopan patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.1,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-890",
+    "name": "Durgesh manoj Chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.1,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-872",
+    "name": "Pradip laxman ware",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.39,
+    "marks": 35,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1246",
+    "name": "Yukti prakash rathod",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.48,
+    "marks": 37,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1320",
+    "name": "Bhagyashree shriram patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.36,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-358",
+    "name": "Gaurav dattu marathe",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.43,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1049",
+    "name": "Dhananjay rohidas marathe",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.28,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1022",
+    "name": "Piyush prakash patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.7,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1182",
+    "name": "Umesh manoj Chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 12.45,
+    "marks": 41,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-877",
+    "name": "Nandaraj kailas mahanubhav",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.8,
+    "marks": 50,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1002",
+    "name": "Trushna ravindra Patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.14,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1163",
+    "name": "Siddhi yogesh patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.1,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1142",
+    "name": "Mayur akash gadekar",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.53,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1321",
+    "name": "Harshada vinod patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.54,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-426",
+    "name": "Mitanksh rajesh khairnar",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.27,
+    "marks": 45,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1056",
+    "name": "Vandana gorakh more",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.42,
+    "marks": 38,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-293",
+    "name": "Pranjal datturay patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.12,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1108",
+    "name": "Praniti Pandurang chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11.43,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1319",
+    "name": "Tanishka gopichand patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.32,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-548",
+    "name": "Kartik vijay chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.25,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-21",
+    "name": "Khushal samadhan marathe",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.29,
+    "marks": 36,
     "totalMarks": 60
   },
   {
     "rollNo": "K-1064",
     "name": "Ketan Valmik Patil",
-    "group": "A",
-    "timeTaken": 15,
-    "marks": 30,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1012",
-    "name": "Yamini Sandip Mali",
-    "group": "A",
-    "timeTaken": 7.23,
-    "marks": 25,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1105",
-    "name": "Dimpal Prakash Chaudhari",
-    "group": "A",
-    "timeTaken": 8.16,
-    "marks": 33,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-964",
-    "name": "Ravinath Vinod Patil",
-    "group": "A",
-    "timeTaken": 15,
-    "marks": 24,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-569",
-    "name": "Harshal Chandrakant Patil",
-    "group": "A",
-    "timeTaken": 15,
-    "marks": 26,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-102",
-    "name": "Ilesh Bharat Patil",
-    "group": "A",
-    "timeTaken": 14.7,
-    "marks": 25,
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10,
+    "marks": 31,
     "totalMarks": 60
   },
   {
     "rollNo": "K-1009",
-    "name": "Tejas Kishor Patil",
-    "group": "A",
-    "timeTaken": 15,
-    "marks": 32,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-634",
-    "name": "Mitansh Rajendra Khernar",
-    "group": "A",
-    "timeTaken": 10.2,
-    "marks": 38,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-754",
-    "name": "Samarth Vinod Patil",
-    "group": "A",
-    "timeTaken": 11.06,
-    "marks": 30,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-618",
-    "name": "Sonakshi Ajay Nikam",
-    "group": "A",
-    "timeTaken": 10.36,
-    "marks": 29,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-375",
-    "name": "Aaradhya Ravindra Sonar",
-    "group": "A",
-    "timeTaken": 10.5,
-    "marks": 36,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1072",
-    "name": "Harshali Dipak Patil",
-    "group": "A",
-    "timeTaken": 13.8,
-    "marks": 33,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1107",
-    "name": "Moksh Suresh Thakur",
-    "group": "A",
-    "timeTaken": 5.6,
-    "marks": 29,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-890",
-    "name": "Durgesh Manoj Chaudhari",
-    "group": "A",
-    "timeTaken": 6.3,
-    "marks": 60,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1093",
-    "name": "Mahi Ravindra Patil",
-    "group": "A",
-    "timeTaken": 10.53,
-    "marks": 35,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-1044",
-    "name": "Jay Dipak Patil",
-    "group": "A",
-    "timeTaken": 11.51,
-    "marks": 45,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-950",
-    "name": "Sana Akabar Tadavi",
-    "group": "A",
-    "timeTaken": 12.44,
-    "marks": 40,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "K-487",
-    "name": "Pratiksha Prakash Chaudhari",
-    "group": "A",
-    "timeTaken": 8.9,
-    "marks": 32,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-755",
-    "name": "Bhumika Mahendra Patil",
-    "group": "A",
-    "timeTaken": 10.53,
-    "marks": 22,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-487",
-    "name": "Kundan Prakash Patil",
-    "group": "A",
-    "timeTaken": 14.15,
-    "marks": 36,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-315",
-    "name": "Purvi Naval Patil",
-    "group": "A",
-    "timeTaken": 6.4,
-    "marks": 38,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-204",
-    "name": "Ishan Nandasing Patil",
-    "group": "A",
-    "timeTaken": 7.58,
-    "marks": 22,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-561",
-    "name": "Samarth Manoj Patil",
-    "group": "A",
-    "timeTaken": 12.55,
-    "marks": 35,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-231",
-    "name": "Rinku Ratilal Visan",
-    "group": "A",
-    "timeTaken": 13.26,
-    "marks": 33,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-484",
-    "name": "Prem Aanand Marathe",
-    "group": "A",
-    "timeTaken": 10.2,
-    "marks": 32,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-690",
-    "name": "Aditya Vasant Patil",
-    "group": "A",
-    "timeTaken": 11.14,
-    "marks": 32,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-864",
-    "name": "No Name",
-    "group": "A",
-    "timeTaken": 11.58,
-    "marks": 31,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-566",
-    "name": "Manoj Sahebrao Jogi",
-    "group": "A",
-    "timeTaken": 11.5,
-    "marks": 29,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-232",
-    "name": "Samarth Jayvant Patil",
-    "group": "A",
-    "timeTaken": 11.4,
-    "marks": 31,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-464",
-    "name": "Yadnesh Sandip Patil",
-    "group": "A",
-    "timeTaken": 13.49,
-    "marks": 48,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-674",
-    "name": "Piyush Dipak Patil",
-    "group": "A",
-    "timeTaken": 9.2,
-    "marks": 33,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-636",
-    "name": "Parikshit Ravi Bagul",
-    "group": "A",
-    "timeTaken": 9.4,
-    "marks": 35,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-185",
-    "name": "Apeksha Rohidas Patil",
-    "group": "A",
-    "timeTaken": 12.5,
-    "marks": 34,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-413",
-    "name": "Roshani Rajendra Jogi",
-    "group": "A",
-    "timeTaken": 12.46,
-    "marks": 32,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-85",
-    "name": "Pruthviraj Yogaraj Mahale",
-    "group": "A",
-    "timeTaken": 15,
-    "marks": 29,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-741",
-    "name": "Praful Sandip Patil",
-    "group": "A",
-    "timeTaken": 5.5,
-    "marks": 30,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-344",
-    "name": "Bhagyashri Ashok Patil",
-    "group": "A",
-    "timeTaken": 11.27,
-    "marks": 34,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-692",
-    "name": "Divya Dnyaneshwar Patil",
-    "group": "A",
-    "timeTaken": 9.27,
-    "marks": 34,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-780",
-    "name": "Dhiraj Jitendra Mahajan",
-    "group": "A",
-    "timeTaken": 7.58,
-    "marks": 34,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-689",
-    "name": "Ananya Laxman Telange",
-    "group": "A",
-    "timeTaken": 8.09,
-    "marks": 28,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-970",
-    "name": "No Name",
-    "group": "A",
-    "timeTaken": 10.1,
-    "marks": 36,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-400",
-    "name": "Kartik Sanjay Kalal",
-    "group": "A",
-    "timeTaken": 12.46,
-    "marks": 37,
-    "totalMarks": 60
-  },
-  {
-    "rollNo": "E-310",
-    "name": "Ved Rahul Chaudhari ",
+    "name": "Tejas kishor patil",
     "group": "B",
-    "timeTaken": 11.29,
-    "marks": 39,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-239",
-    "name": "Prathamesh Pravin Marathe ",
-    "group": "B",
-    "timeTaken": 10.2,
-    "marks": 32,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-335",
-    "name": "Keyur Parmod Patil ",
-    "group": "B",
-    "timeTaken": 15.5,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.55,
     "marks": 34,
-    "totalMarks": 80
+    "totalMarks": 60
   },
   {
-    "rollNo": "E-350",
-    "name": "Jayaram Krishna Bhil",
+    "rollNo": "K-1281",
+    "name": "Divyani anil patil",
     "group": "B",
-    "timeTaken": 17,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.21,
     "marks": 42,
-    "totalMarks": 80
+    "totalMarks": 60
   },
   {
-    "rollNo": "E-644",
-    "name": "Diksha Vinod Thakare",
+    "rollNo": "K-1082",
+    "name": "Harshada shivaji chaudhari",
     "group": "B",
-    "timeTaken": 9.2,
-    "marks": 30,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-556",
-    "name": "Nivrutti liladhar Patil ",
-    "group": "B",
-    "timeTaken": 10.1,
-    "marks": 33,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-243",
-    "name": "Bhagyashri kishor Marathe ",
-    "group": "B",
-    "timeTaken": 8.48,
-    "marks": 35,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-105",
-    "name": "No Name ",
-    "group": "B",
-    "timeTaken": 12.05,
-    "marks": 35,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-536",
-    "name": "Bhavesh Sandip Patil",
-    "group": "B",
-    "timeTaken": 15.09,
-    "marks": 37,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-493",
-    "name": "No Name ",
-    "group": "B",
-    "timeTaken": 11.45,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-500",
-    "name": "Swaraj Bhavesh Patil",
-    "group": "B",
-    "timeTaken": 17.57,
-    "marks": 40,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-662",
-    "name": "Komal Harichandra Patil ",
-    "group": "B",
-    "timeTaken": 12.08,
-    "marks": 36,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-739",
-    "name": "Vaishnavi Jagdish Marathe ",
-    "group": "B",
-    "timeTaken": 11.27,
-    "marks": 39,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-538",
-    "name": "Pranjal Sandip patil",
-    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
     "timeTaken": 6.4,
-    "marks": 54,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-526",
-    "name": "Payal Sandip Patil",
-    "group": "B",
-    "timeTaken": 11.4,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-665",
-    "name": "Nikhil Dinesh Patil ",
-    "group": "B",
-    "timeTaken": 8.34,
-    "marks": 30,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "E-484",
-    "name": "Prem Ananda Marathe",
-    "group": "B",
-    "timeTaken": 14.3,
-    "marks": 43,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-860",
-    "name": "Ganesh Nitin Jadhav ",
-    "group": "B",
-    "timeTaken": 9.19,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-1046",
-    "name": "Pornima Vasant Behare",
-    "group": "B",
-    "timeTaken": 8.35,
-    "marks": 36,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-1025",
-    "name": "Yash Sandip Patil ",
-    "group": "B",
-    "timeTaken": 13.27,
-    "marks": 33,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-982",
-    "name": "Bhavesh Mangesh patil",
-    "group": "B",
-    "timeTaken": 19.57,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-984",
-    "name": "Mohit Dipak Patil",
-    "group": "B",
-    "timeTaken": 11.41,
     "marks": 32,
-    "totalMarks": 80
+    "totalMarks": 60
   },
   {
-    "rollNo": "K-1057",
-    "name": "Narendra Shantaram Patil ",
+    "rollNo": "K-365",
+    "name": "Vansh balu chaudhari",
     "group": "B",
-    "timeTaken": 11.33,
-    "marks": 41,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-488",
-    "name": "Ritesh Anil sonavane ",
-    "group": "B",
-    "timeTaken": 15.4,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-925",
-    "name": "Mohit Ganesh Patil ",
-    "group": "B",
-    "timeTaken": 12.22,
-    "marks": 45,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-642",
-    "name": "Aniket Mahendra Vanvane ",
-    "group": "B",
-    "timeTaken": 19.57,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-858",
-    "name": "Runali Dipak Patil ",
-    "group": "B",
-    "timeTaken": 12.25,
-    "marks": 53,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-827",
-    "name": "Karan Andanda patil",
-    "group": "B",
-    "timeTaken": 8.34,
-    "marks": 33,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-791",
-    "name": "Lavanya Gokul Patil ",
-    "group": "B",
-    "timeTaken": 11.45,
-    "marks": 32,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-826",
-    "name": "Yashashri Sunil Patil ",
-    "group": "B",
-    "timeTaken": 8,
-    "marks": 47,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-763",
-    "name": "Radhika Kishor Tayade",
-    "group": "B",
-    "timeTaken": 11,
-    "marks": 36,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-955",
-    "name": "Paresh Mahesh Lohar",
-    "group": "B",
-    "timeTaken": 12,
-    "marks": 48,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-439",
-    "name": "Vishwanatha Bhagavat Mahajan ",
-    "group": "B",
-    "timeTaken": 18.3,
-    "marks": 32,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-954",
-    "name": "Krishna Vijay Rathod",
-    "group": "B",
-    "timeTaken": 11.4,
-    "marks": 48,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-910",
-    "name": "Mrunali Vinod Birali",
-    "group": "B",
-    "timeTaken": 9.2,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.35,
     "marks": 35,
-    "totalMarks": 80
+    "totalMarks": 60
   },
   {
-    "rollNo": "K-661",
-    "name": "Manaswi Mithun Bhoi",
+    "rollNo": "K-1016",
+    "name": "Charan jitendra patil",
     "group": "B",
-    "timeTaken": 11.22,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.21,
+    "marks": 34,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1128",
+    "name": "Trupti girish tulaskar",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.42,
     "marks": 31,
-    "totalMarks": 80
+    "totalMarks": 60
   },
   {
-    "rollNo": "K-560",
-    "name": "Rishabh Sachin Bhoi",
+    "rollNo": "K-799",
+    "name": "Jayashree vilas patil",
     "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.56,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1220",
+    "name": "Swanandi jitendra patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.47,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-305",
+    "name": "Lavanya rahul patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.24,
+    "marks": 33,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-857",
+    "name": "Bhavesh sandip patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.42,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1305",
+    "name": "Rudra dipakkumar patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.22,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1032",
+    "name": "Vedant manish patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.51,
+    "marks": 32,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-553",
+    "name": "Manish sandip chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.2,
+    "marks": 31,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "K-1235",
+    "name": "Samarth pravin patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.28,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "M-47",
+    "name": "Manasvi yogesh patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.26,
+    "marks": 41,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "M-13",
+    "name": "Pranav sandip patil",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.13,
+    "marks": 36,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "M-25",
+    "name": "Aniruddha pramod pawar",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.55,
+    "marks": 48,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "M-38",
+    "name": "Janvi ravindra chaudhari",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.12,
+    "marks": 38,
+    "totalMarks": 60
+  },
+  {
+    "rollNo": "M-02",
+    "name": "Snehal samadhan marathe",
+    "group": "B",
+    "department": "Grammer",
+    "city": "Kasoda",
     "timeTaken": 12.53,
     "marks": 31,
-    "totalMarks": 80
+    "totalMarks": 60
   },
   {
-    "rollNo": "K-687",
-    "name": "Gunjan Rajendra Patil ",
+    "rollNo": "M-40",
+    "name": "Girish rajendra ushir",
     "group": "B",
-    "timeTaken": 9.3,
-    "marks": 33,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-603",
-    "name": "Nisha Balu Patil",
-    "group": "B",
-    "timeTaken": 15.15,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-127",
-    "name": "Bhavesh Gorakhanath sonavane ",
-    "group": "B",
-    "timeTaken": 13.43,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-819",
-    "name": "Yadnesh Sachin Bhoi ",
-    "group": "B",
-    "timeTaken": 14.1,
-    "marks": 39,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-1013",
-    "name": "Tejaswini Parvin Patil ",
-    "group": "B",
-    "timeTaken": 8,
-    "marks": 44,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-756",
-    "name": "Bhushan Parvin Patil",
-    "group": "B",
-    "timeTaken": 9.54,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-986",
-    "name": "Yashraj Sunil Sabale",
-    "group": "B",
-    "timeTaken": 10.3,
-    "marks": 35,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-1041",
-    "name": "Nandini Dinesh sonavane ",
-    "group": "B",
-    "timeTaken": 13,
-    "marks": 39,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-772",
-    "name": "Pankaj Anil Patil ",
-    "group": "B",
-    "timeTaken": 9.5,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-958",
-    "name": "Arya Ashok Patil ",
-    "group": "B",
-    "timeTaken": 8.5,
-    "marks": 35,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-1019",
-    "name": "Lavanya Ujwal Patil ",
-    "group": "B",
-    "timeTaken": 15.7,
-    "marks": 41,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-1050",
-    "name": "Tanvi Balakrishna Mali",
-    "group": "B",
-    "timeTaken": 13.24,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-487",
-    "name": "Pratiksha Prakash Patil ",
-    "group": "B",
-    "timeTaken": 13.59,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-1034",
-    "name": "Raksha Dipak Patil ",
-    "group": "B",
-    "timeTaken": 7.43,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.2,
     "marks": 32,
-    "totalMarks": 80
+    "totalMarks": 60
   },
   {
-    "rollNo": "K-987",
-    "name": "Piyush Gulab Patil",
+    "rollNo": "M-42",
+    "name": "Gaurav hemant ushir",
     "group": "B",
-    "timeTaken": 14.28,
-    "marks": 47,
-    "totalMarks": 80
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.36,
+    "marks": 33,
+    "totalMarks": 60
   },
   {
-    "rollNo": "K-1021",
-    "name": "Aditya Ravindra Jagtap",
-    "group": "B",
-    "timeTaken": 12.26,
-    "marks": 31,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-919",
-    "name": "Tushar Ravindra Chaudhari ",
-    "group": "B",
-    "timeTaken": 13.08,
-    "marks": 37,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "K-862",
-    "name": "Pallavi Raosaheb Patil",
-    "group": "B",
-    "timeTaken": 10,
-    "marks": 36,
-    "totalMarks": 80
-  },
-  {
-    "rollNo": "rollNo",
-    "name": "Student name ",
-    "group": "Group C",
-    "timeTaken": "timeTaken",
-    "marks": "marks",
-    "totalMarks": "totalMarks"
-  },
-  {
-    "rollNo": "K-671",
-    "name": "Yash Namdev Deore",
+    "rollNo": "E-853",
+    "name": "Anjali rajendra jadhav",
     "group": "C",
-    "timeTaken": 10.33,
-    "marks": 62,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.5,
+    "marks": 52,
     "totalMarks": 100
   },
   {
-    "rollNo": "K-98",
-    "name": "Shubham Bharat Patil ",
+    "rollNo": "E-898",
+    "name": "Vaibhavi rahul patil",
     "group": "C",
-    "timeTaken": 9,
-    "marks": 81,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-480",
-    "name": "Chaitali kailas Chaudhari ",
-    "group": "C",
-    "timeTaken": 10,
-    "marks": 66,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-912",
-    "name": "Dimpal Babanarao Patil ",
-    "group": "C",
-    "timeTaken": 9.39,
-    "marks": 57,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-916",
-    "name": "Chaitali Mukesh Patil ",
-    "group": "C",
-    "timeTaken": 8.42,
-    "marks": 67,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-539",
-    "name": "Janavi Manohar Patil",
-    "group": "C",
-    "timeTaken": 9.5,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-376",
-    "name": "Ovi Mahendra Sonar ",
-    "group": "C",
-    "timeTaken": 9.51,
-    "marks": 40,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-54",
-    "name": "Shruti Nandu Mali",
-    "group": "C",
-    "timeTaken": 9.5,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-326",
-    "name": "Mohantesh Ravindra Patil ",
-    "group": "C",
-    "timeTaken": 14.45,
-    "marks": 45,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-670",
-    "name": "Diksha Namdev Deore ",
-    "group": "C",
-    "timeTaken": 6.7,
-    "marks": 84,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-114",
-    "name": "Chetan Vinod Patil ",
-    "group": "C",
-    "timeTaken": 7,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-459",
-    "name": "Pranav Sharad Patil ",
-    "group": "C",
-    "timeTaken": 10.5,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-818",
-    "name": "Rohini Sahebrao Mali ",
-    "group": "C",
-    "timeTaken": 9.33,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-371",
-    "name": "Tanmay Dinesh Patil ",
-    "group": "C",
-    "timeTaken": 13.7,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-580",
-    "name": "Piyush Dipak Chaudhari ",
-    "group": "C",
-    "timeTaken": 9.35,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-308",
-    "name": "Om Anil Patil ",
-    "group": "C",
-    "timeTaken": 11.34,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-280",
-    "name": "Tushar Sitaram Chaudhari ",
-    "group": "C",
-    "timeTaken": 14.5,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.55,
     "marks": 51,
     "totalMarks": 100
   },
   {
-    "rollNo": "K-417",
-    "name": "Dhananjay Ramchandra Lohar",
+    "rollNo": "E-376",
+    "name": "Chaitali vasudev pawar",
     "group": "C",
-    "timeTaken": 12,
-    "marks": 42,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-915",
-    "name": "Tushal Narendra khairnar",
-    "group": "C",
-    "timeTaken": 9.36,
-    "marks": 49,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-322",
-    "name": "Priyanka Chandrakant Patil",
-    "group": "C",
-    "timeTaken": 10.28,
-    "marks": 59,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-556",
-    "name": "Bhumika Kiran Patil ",
-    "group": "C",
-    "timeTaken": 9.53,
-    "marks": 40,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-851",
-    "name": "Amay Vijay Patil ",
-    "group": "C",
-    "timeTaken": 14.5,
-    "marks": 64,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-374",
-    "name": "Devika Kiran Chaudhari",
-    "group": "C",
-    "timeTaken": 10.4,
-    "marks": 48,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "k-106",
-    "name": "Chetan Vikas Patil ",
-    "group": "C",
-    "timeTaken": 12.45,
-    "marks": 42,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-938",
-    "name": "Komal Shivaji Patil",
-    "group": "C",
-    "timeTaken": 10.44,
-    "marks": 48,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-645",
-    "name": "Umesh Lalit Chaudhari ",
-    "group": "C",
-    "timeTaken": 13,
-    "marks": 63,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-419",
-    "name": "Manavi Ravindra Deore ",
-    "group": "C",
-    "timeTaken": 7.35,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-157",
-    "name": "Lavanya Ravindra Deore ",
-    "group": "C",
-    "timeTaken": 7.17,
-    "marks": 52,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-83",
-    "name": "Bhushan Ravindra Patil ",
-    "group": "C",
-    "timeTaken": 12.3,
-    "marks": 42,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-688",
-    "name": "Gunjan Rajendra Patil ",
-    "group": "C",
-    "timeTaken": 7.4,
-    "marks": 42,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-525",
-    "name": "Sai Raghunath Patil ",
-    "group": "C",
-    "timeTaken": 10.28,
-    "marks": 43,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-884",
-    "name": "Pratiksha Vithhal Chaudhari ",
-    "group": "C",
-    "timeTaken": 9.28,
-    "marks": 52,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-759",
-    "name": "Vaibhavi Balu Mahajan ",
-    "group": "C",
-    "timeTaken": 7.09,
-    "marks": 68,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-746",
-    "name": "Bushra Asif kazi",
-    "group": "C",
-    "timeTaken": 8.56,
-    "marks": 47,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-766",
-    "name": "Yash Dnyaneshwar Patil ",
-    "group": "C",
-    "timeTaken": 15.18,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-145",
-    "name": "Neha Gunjan Patil",
-    "group": "C",
-    "timeTaken": 9.1,
-    "marks": 82,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-223",
-    "name": "Vaishnavi kailas Mahajan ",
-    "group": "C",
-    "timeTaken": 12.34,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-117",
-    "name": "Karan Gulab Patil ",
-    "group": "C",
-    "timeTaken": 8.44,
-    "marks": 51,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-355",
-    "name": "Vinit Dipak Patil ",
-    "group": "C",
-    "timeTaken": 12.38,
-    "marks": 53,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-747",
-    "name": "Ashmira Javid Kazi",
-    "group": "C",
-    "timeTaken": 6.57,
-    "marks": 52,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-485",
-    "name": "Mohit Vishal Patil",
-    "group": "C",
-    "timeTaken": 17.5,
-    "marks": 42,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-535",
-    "name": "Pratiksha Janraj Bhoi",
-    "group": "C",
-    "timeTaken": 10.35,
-    "marks": 45,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-564",
-    "name": "Divesh Ganesh kumbhar ",
-    "group": "C",
-    "timeTaken": 14.11,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-373",
-    "name": "Gayatri Kiran Chaudhari ",
-    "group": "C",
-    "timeTaken": 8.35,
-    "marks": 48,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-703",
-    "name": "Shlok Rahul sonavane ",
-    "group": "C",
-    "timeTaken": 10.49,
-    "marks": 47,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "K-420",
-    "name": "Lalit Yogesh Mahajan",
-    "group": "C",
-    "timeTaken": 12.41,
-    "marks": 42,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-451",
-    "name": "Chaitanya Jitendra Chavan ",
-    "group": "C",
-    "timeTaken": 9.58,
-    "marks": 78,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-318",
-    "name": "Yash Ananda Patil ",
-    "group": "C",
-    "timeTaken": 9.27,
-    "marks": 41,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-996",
-    "name": "No Name ",
-    "group": "C",
-    "timeTaken": 8.24,
-    "marks": 49,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-796",
-    "name": "Jagruti Kishor Mali ",
-    "group": "C",
-    "timeTaken": 13.08,
-    "marks": 65,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-414",
-    "name": "Minakshi Dilip Jogi ",
-    "group": "C",
-    "timeTaken": 11.26,
-    "marks": 65,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-235",
-    "name": "Vijendra Dnyaneshwar Shinde ",
-    "group": "C",
-    "timeTaken": 14.14,
-    "marks": 53,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-72",
-    "name": "Devyani SumerSingh Pati ",
-    "group": "C",
-    "timeTaken": 9.35,
-    "marks": 65,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-180",
-    "name": "Vaishnavi Mayur Patil ",
-    "group": "C",
-    "timeTaken": 10.36,
-    "marks": 45,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-62",
-    "name": "Pranita Ravindra Pati ",
-    "group": "C",
-    "timeTaken": 3.42,
-    "marks": 59,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-413",
-    "name": "Roshani Rajendra Jogi ",
-    "group": "C",
-    "timeTaken": 10.43,
-    "marks": 47,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-200",
-    "name": "Ritesh Suresh Mahajan ",
-    "group": "C",
-    "timeTaken": 12.07,
-    "marks": 42,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-236",
-    "name": "Kamini Vithhal Patil ",
-    "group": "C",
-    "timeTaken": 10.35,
-    "marks": 56,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-176",
-    "name": "Lokesh Dnyaneshwar Sutar ",
-    "group": "C",
-    "timeTaken": 12.5,
-    "marks": 48,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-131",
-    "name": "Pratidnya Rajendra Patil ",
-    "group": "C",
-    "timeTaken": 11.12,
-    "marks": 75,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-507",
-    "name": "Tanuja Manoj Patil ",
-    "group": "C",
-    "timeTaken": 9.03,
-    "marks": 59,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-415",
-    "name": "Ankita Aatmaram Patil ",
-    "group": "C",
-    "timeTaken": 10.1,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.2,
     "marks": 61,
     "totalMarks": 100
   },
   {
-    "rollNo": "E-95",
-    "name": "Rohit Dnyaneshwar Patil ",
-    "group": "C",
-    "timeTaken": 9,
-    "marks": 65,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-241",
-    "name": "Lavanya Dinesh Patil",
-    "group": "C",
-    "timeTaken": 6.43,
-    "marks": 82,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-295",
-    "name": "Janhavi Amol Patil ",
-    "group": "C",
-    "timeTaken": 16.52,
-    "marks": 44,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-529",
-    "name": "Purvi Darshan Marathe ",
-    "group": "C",
-    "timeTaken": 10.08,
-    "marks": 58,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-141",
-    "name": "Divesh Arun Shinde",
-    "group": "C",
-    "timeTaken": 7.57,
-    "marks": 53,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-297",
-    "name": "Riya Eknath Patil ",
-    "group": "C",
-    "timeTaken": 9.45,
-    "marks": 48,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-637",
-    "name": "Dnyaneshwari Gajanan Patil ",
-    "group": "C",
-    "timeTaken": 10.07,
-    "marks": 54,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-354",
-    "name": "Akshara Nithin sonavane ",
-    "group": "C",
-    "timeTaken": 10.47,
-    "marks": 49,
-    "totalMarks": 100
-  },
-  {
-    "rollNo": "E-196",
-    "name": "Kirti Yogesh chavan ",
-    "group": "C",
-    "timeTaken": 10.58,
-    "marks": 55,
-    "totalMarks": 100
-  },
-  {
     "rollNo": "E-130",
-    "name": "Kalyani bhagavan Patil ",
+    "name": "Kalyani bhagwan patil",
     "group": "C",
-    "timeTaken": 9.22,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.4,
+    "marks": 85,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-335",
+    "name": "Keyur pramod patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11.3,
+    "marks": 57,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-414",
+    "name": "Minakshi dilip jogi",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.45,
+    "marks": 60,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-310",
+    "name": "Ved rahul chaudhari",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.5,
+    "marks": 57,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-538",
+    "name": "Pranjal sandip patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.4,
+    "marks": 60,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-665",
+    "name": "Nikhil dinesh patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.44,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-377",
+    "name": "Kaveri balkrushna pawar",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.31,
+    "marks": 61,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-185",
+    "name": "Apeksha rohidas patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.4,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-180",
+    "name": "Vaishnavi mayur patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.54,
+    "marks": 62,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-611",
+    "name": "Purvi tukaram patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.53,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-891",
+    "name": "Vaishnavi balkrushna marathe",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11.51,
     "marks": 76,
     "totalMarks": 100
   },
   {
-    "rollNo": "E-175",
-    "name": "Shreya Adhikar Kapure",
+    "rollNo": "E-534",
+    "name": "Pritam shekhar jagtap",
     "group": "C",
-    "timeTaken": 11.14,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.32,
+    "marks": 62,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-621",
+    "name": "Nisha kiran patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.4,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-892",
+    "name": "Vaibhavi balkrishna marathe",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.4,
+    "marks": 57,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-684",
+    "name": "Siddhi devidas mahajan",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.3,
+    "marks": 72,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-316",
+    "name": "Harshada samadhan patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.7,
+    "marks": 66,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-883",
+    "name": "Khushi Ishwar more",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.25,
+    "marks": 57,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-876",
+    "name": "Mohit aaba marathe",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.7,
+    "marks": 50,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-415",
+    "name": "Ankita aatmaram patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.2,
+    "marks": 75,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-833",
+    "name": "Priti Dnyaneshwar mane",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.21,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-886",
+    "name": "Khushi laxman mahajan",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 12.2,
     "marks": 53,
     "totalMarks": 100
   },
   {
-    "rollNo": "E-393",
-    "name": "Tejaswini Rajendra Jogi",
+    "rollNo": "E-165",
+    "name": "Snehal dattu patil",
     "group": "C",
-    "timeTaken": 9.24,
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.3,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-393",
+    "name": "Tejaswini Ravindra Jogi",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.18,
+    "marks": 64,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-116",
+    "name": "Darpan yogesh patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.47,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-637",
+    "name": "Dnyaneshwari Gajanan Patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 4.4,
+    "marks": 73,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-235",
+    "name": "Virendra Dnyaneshwar shinde",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.33,
+    "marks": 80,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-561",
+    "name": "Samarth Manoj Patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11,
+    "marks": 63,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-28",
+    "name": "Tanushka vishwanath chavhan",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11.4,
+    "marks": 78,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-1034",
+    "name": "Raksha dipak patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-858",
+    "name": "Mrulali dipak patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.4,
+    "marks": 56,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-584",
+    "name": "Kunjal devchand jadhav",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-474",
+    "name": "Vedant Mahendra gadariya",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 2.51,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-1043",
+    "name": "Mohit ravsaheb mahajan",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.47,
+    "marks": 53,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-785",
+    "name": "Tanushka tushar chaudhari",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 6.49,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-554",
+    "name": "Naitik chaudhari",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.6,
+    "marks": 53,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-1250",
+    "name": "Dhyananesh dinesh patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 11.58,
+    "marks": 57,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "K-1031",
+    "name": "Aavni bhushan patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 5.49,
+    "marks": 51,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "M-24",
+    "name": "Mohit chhotu patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 8.45,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "M-12",
+    "name": "Jayesh sanjay chaudhari",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 12,
+    "marks": 62,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "M-20",
+    "name": "Prajit yogesh patil",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.2,
+    "marks": 65,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "M-39",
+    "name": "Rajeshri raosaheb ushir",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.11,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "E-1143",
+    "name": "arsheen mukhtar khan",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 12.3,
+    "marks": 48,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-1005",
+    "name": "Tasmiya nasir shaikh",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 12,
+    "marks": 55,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-",
+    "name": "bilal ali mohhamad ali saiyyad",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 7.3,
+    "marks": 40,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-250",
+    "name": "hasnainali kutubali saiyyad",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 10.2,
+    "marks": 41,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "E-1150",
+    "name": "fiza imran shaikh",
+    "group": "C",
+    "department": "Grammer",
+    "city": "Kasoda",
+    "timeTaken": 9.23,
     "marks": 54,
+    "totalMarks": 80
+  },
+  {
+    "rollNo": "D-5061",
+    "name": "Swara Kiran Sutare",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.53,
+    "marks": 91,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5045",
+    "name": "Purva Shamkant Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.65,
+    "marks": 75,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3759",
+    "name": "Gunjan Ravindra Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.65,
+    "marks": 69,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5063",
+    "name": "Mahi Mayurkumar Bhande",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 11.7,
+    "marks": 79,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4090",
+    "name": "Sanjivani Laxman Koli",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 11.03,
+    "marks": 80,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5029",
+    "name": "Sangharsh Samadhan Gajare",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5026",
+    "name": "Ronak Shashikant Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 35,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3867",
+    "name": "Aakash Sankhar Vaidu",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 37,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3965",
+    "name": "Ruhi Ramkrishna Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.03,
+    "marks": 26,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3997",
+    "name": "Yuvraj Parshuram Vaidu",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.33,
+    "marks": 56,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5062",
+    "name": "Gita Rahul Sutare",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 67,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4010",
+    "name": "Hitesh Mahendra Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 59,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4076",
+    "name": "Divya Namdeo Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 12.03,
+    "marks": 55,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4030",
+    "name": "Yashunath Dipak Bhil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 55,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3731",
+    "name": "Sushant Sainath Motiraya",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.93,
+    "marks": 70,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3931",
+    "name": "Siddhi Amol Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.32,
+    "marks": 68,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4999",
+    "name": "Dinesh Bhagwan Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.55,
+    "marks": 70,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3713",
+    "name": "Vaishnavi Dnyaneshwar Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.13,
+    "marks": 79,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3757",
+    "name": "Roshan Harish Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 12.33,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4014",
+    "name": "Niyati Dnyaneshwar Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 11.67,
+    "marks": 22,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5066",
+    "name": "Viraj Vijay Dhangar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5009",
+    "name": "Rutuja Gulab Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 12.62,
+    "marks": 25,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5032",
+    "name": "Anuradha Dattatrey Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 39,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4042",
+    "name": "Dimpal Bharat Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 12.05,
+    "marks": 38,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4015",
+    "name": "Ravindra Somnath Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 22,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3924",
+    "name": "Vaishnavi Manoj Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.1,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3812",
+    "name": "Vaibhav Kishor Bhoi",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 18,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4013",
+    "name": "Bhuvanesh Laxman Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4025",
+    "name": "Harshal Yuvraj Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-1005",
+    "name": "Harshal Brijeshsing Chavan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3981",
+    "name": "Ujjawal Amol Kankhare",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3920",
+    "name": "Vedant Lotan Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5054",
+    "name": "Arayan Narendra Tayade",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 18,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4020",
+    "name": "Pramod Bhatu Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 54,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3917",
+    "name": "Jayesh Suresh Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 18,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3366",
+    "name": "Pranav Walmik Deshmukh",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 16,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3657",
+    "name": "Atharva Rakesh Mandage",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 18,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3999",
+    "name": "Durgesh Dipak Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4057",
+    "name": "Manish Sandip Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 28,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5033",
+    "name": "Vishal Mahesh Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 18,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4037",
+    "name": "Tanmay Mahendra Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3817",
+    "name": "Tanmay Mahesh Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3890",
+    "name": "Tushar Nitin Deshmukh",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 22,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2001",
+    "name": "Jayant Gajanan Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 26,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5064",
+    "name": "Divya Dipak Koshti",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.78,
+    "marks": 49,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3977",
+    "name": "Shraddha Jayesh Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.35,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-1001",
+    "name": "Harshal Hari Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 19,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4091",
+    "name": "Sai Sanjay Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3736",
+    "name": "Mayur Prashant Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 50,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3672",
+    "name": "Shaury Yogesh Chauhan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5001",
+    "name": "Harshal Vinayak Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 29,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4075",
+    "name": "Nakshatra Bhaiyasaheb Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 23,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3820",
+    "name": "Yogeshwar Prakash Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 28,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3998",
+    "name": "Vaishali Vijay Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 21,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3638",
+    "name": "Tanvi Ganesh Mandage",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 23,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4043",
+    "name": "Payal Dipak Gunzad",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4033",
+    "name": "Mohammad Farhan Moh. Irfan Momin",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 18,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3974",
+    "name": "Jayesh Ashutosh Shirsath",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 27,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3994",
+    "name": "Chaitanya Motilal Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 11.9,
+    "marks": 43,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5052",
+    "name": "Shaikh Rehan Shaikh Shakil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4009",
+    "name": "Darshan Kishor Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3846",
+    "name": "Kiran Parmeshwar Dhangar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3747",
+    "name": "Akshara G Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.08,
+    "marks": 47,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4063",
+    "name": "Lokesh Somnath Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 27,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4000",
+    "name": "Gaurav Datta Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.93,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3887",
+    "name": "Kartik Samadhan Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 21,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4039",
+    "name": "Vipul Vijay Borse",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 18,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3018",
+    "name": "Tejas Shriram Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.37,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5059",
+    "name": "Neha Eknath Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 50,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3956",
+    "name": "Satyajit Ujjawal Mahale",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.73,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3739",
+    "name": "Harsh Dhanraj More",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.47,
+    "marks": 27,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5435",
+    "name": "Heha Rahul Badgujar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.45,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3802",
+    "name": "Kartik Vijay Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.58,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3927",
+    "name": "Ritesh Ananda Fulpagar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.78,
+    "marks": 27,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4067",
+    "name": "Om Ramdas Chavan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 23,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3826",
+    "name": "Dharmesh Dinesh Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 27,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4002",
+    "name": "Chaitanya Sandip Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3839",
+    "name": "Mayank Pankaj Badgujar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 19,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4089",
+    "name": "Vicky Anil Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 14.02,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5060",
+    "name": "Tanmay Dinesh Gujar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 13.95,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5002",
+    "name": "Dhruv Vijay Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 11.18,
+    "marks": 16,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3975",
+    "name": "Rajvir Mahendra Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.23,
+    "marks": 47,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3758",
+    "name": "Durgesh Fakira Kumbhar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3835",
+    "name": "Gajendra Sukhalal Vaidu",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 18,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5050",
+    "name": "Amol Satish Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4012",
+    "name": "Pratik Jitendra Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 11.32,
+    "marks": 32,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3670",
+    "name": "Prathamesh Prashant Wagh",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 16,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-65",
+    "name": "Tohit Jumma Pinjari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-67",
+    "name": "Devendra Walmik Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 15.0,
+    "marks": 23,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3880",
+    "name": "Himanshu Sandip Nikam",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.55,
+    "marks": 66,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5022",
+    "name": "Vedika Satish Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.28,
+    "marks": 60,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4093",
+    "name": "Krishna Jitendra Baviskar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.93,
+    "marks": 64,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3663",
+    "name": "Kundan Sharad Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.2,
+    "marks": 62,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5020",
+    "name": "Pratik Kiran Pawar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 60,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3978",
+    "name": "Aditya Jayesh Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.33,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3360",
+    "name": "Nil Manoj Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 50,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3993",
+    "name": "Jivitesh Vijay Borse",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.92,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4066",
+    "name": "Asmiti Ramdas Chavan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.47,
+    "marks": 50,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4028",
+    "name": "Dishant Sandip Nikam",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.65,
+    "marks": 52,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4008",
+    "name": "Viren Prakash Bayas",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.52,
+    "marks": 50,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3970",
+    "name": "Ritisha Pankaj Bhatia",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.0,
+    "marks": 58,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3864",
+    "name": "Durgesh Bhaiya Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.65,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5038",
+    "name": "Bhuvaneshwar Gorakh Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.3,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3778",
+    "name": "Jaydeep Dipak Satpute",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.02,
+    "marks": 30,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5021",
+    "name": "Samiksha Dipak Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.77,
+    "marks": 32,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3847",
+    "name": "Krushna Parmeshwar Dhangar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.5,
+    "marks": 38,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3200",
+    "name": "Riya Anil Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.75,
+    "marks": 32,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4051",
+    "name": "Lokesh Sandip Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.92,
+    "marks": 22,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3583",
+    "name": "Dinesh Prakash Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.83,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3748",
+    "name": "Yash G Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.27,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3451",
+    "name": "Harsh Mahendrasing Rajput",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.55,
+    "marks": 38,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3823",
+    "name": "Jayesh Sopan Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 28,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3060",
+    "name": "Chetan Shantaram Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.87,
+    "marks": 26,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3773",
+    "name": "Tushar Sopan Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.28,
+    "marks": 38,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3044",
+    "name": "Ashiqur Reheman",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.18,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3986",
+    "name": "Rohit Gorakh Vaidu",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.75,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4034",
+    "name": "Jayesh Kamlesh Badgujar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.08,
+    "marks": 35,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4056",
+    "name": "Mohim Anil Patel",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.75,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3680",
+    "name": "Madhavi Sandip Sutare",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.75,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3407",
+    "name": "Juned Shah A. Shah",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.2,
+    "marks": 31,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5028",
+    "name": "Girish Bapu Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.17,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3987",
+    "name": "Akshad Gorakh Vaidu",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.95,
+    "marks": 30,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5000",
+    "name": "Pranav Mohan Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.5,
+    "marks": 46,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3690",
+    "name": "Upasna Kiran mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.65,
+    "marks": 30,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3702",
+    "name": "Vaishnavi Pramod Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2793",
+    "name": "Raj Anil Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.65,
+    "marks": 38,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3705",
+    "name": "Rohit Himmat Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.08,
+    "marks": 14,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3439",
+    "name": "Prem Nitin Pawar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.07,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3854",
+    "name": "Prathamesh Yogesh Sonwane",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.6,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5016",
+    "name": "Chaitanya Prakash Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.55,
+    "marks": 48,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3971",
+    "name": "Vansh Pankaj Bhatia",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.93,
+    "marks": 36,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3777",
+    "name": "Mayur Prakash Satpute",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.65,
+    "marks": 20,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5004",
+    "name": "Torana Kantilal Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 26,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4022",
+    "name": "Bhavesh Kishor Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 21,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3780",
+    "name": "Akshay Shivaji Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.5,
+    "marks": 32,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-4001",
+    "name": "Pranav Vishal Nerpagar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 3.42,
+    "marks": 36,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3888",
+    "name": "Faran Riyaz Shaikh",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 22,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3875",
+    "name": "Swarangi Walmik Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 36,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5008",
+    "name": "Madhuri Digambar Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3983",
+    "name": "Atharv Shashikant Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 46,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3511",
+    "name": "Gunjan Amol Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.88,
+    "marks": 36,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5030",
+    "name": "Nikita Nilesh Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.75,
+    "marks": 32,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3726",
+    "name": "Divya Bapu Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.35,
+    "marks": 36,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3947",
+    "name": "Aayush Laxmikant Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.38,
+    "marks": 36,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3353",
+    "name": "Yogini Jatan Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.27,
+    "marks": 36,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-5034",
+    "name": "Krishna Sandip Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.47,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3934",
+    "name": "Hemanshi Sandip Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.88,
+    "marks": 26,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3354",
+    "name": "Akshad Sachin Bhavsar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.02,
+    "marks": 88,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3954",
+    "name": "Pranav Kishor Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.0,
+    "marks": 72,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2652",
+    "name": "Bhuvnesh Samadhan Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.23,
+    "marks": 72,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2824",
+    "name": "Guruprasad Nitin Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.33,
+    "marks": 68,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2102",
+    "name": "Rudraksh Santosh Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.05,
+    "marks": 58,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3797",
+    "name": "Divya Vijay Dhangar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.5,
+    "marks": 54,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3677",
+    "name": "Chaitali Sudhakar Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.7,
+    "marks": 62,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3361",
+    "name": "Bhagyashri Nitin Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.18,
+    "marks": 56,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3186",
+    "name": "Vaishnavi Laxmikant Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 3.95,
+    "marks": 66,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3480",
+    "name": "Anushka Ravindra Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 4.37,
+    "marks": 68,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3435",
+    "name": "Nipul Manojsing Janakwar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 3.55,
+    "marks": 60,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3168",
+    "name": "Khushbu Gulab Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.53,
+    "marks": 54,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2702",
+    "name": "Roshani Kailas Marathe",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.0,
+    "marks": 58,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3834",
+    "name": "Tejal Vitthoba Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 2.95,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3568",
+    "name": "Rohit Gopal Koli",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 3.33,
+    "marks": 26,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3557",
+    "name": "Om Samadhan Dhangar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.35,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3379",
+    "name": "Samrinbano Sharifsha Fakir",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 3.92,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2222",
+    "name": "Yash Hari Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 4.27,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3870",
+    "name": "Simaran Kapil More",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.47,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3873",
+    "name": "Arkam Ali Sabir Saiyad",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 3.67,
+    "marks": 24,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3598",
+    "name": "Payal Anil Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 5.83,
+    "marks": 22,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3165",
+    "name": "Gauri Jagdish Chaudhari",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.02,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2983",
+    "name": "Lavanya Samadhan Mahajan",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 4.92,
+    "marks": 40,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3613",
+    "name": "Durgesh Dipak Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.22,
+    "marks": 26,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3862",
+    "name": "Kamlesh Parshuram Vaidu",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.02,
+    "marks": 38,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-2617",
+    "name": "Yachana Dipak Baviskar",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.68,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-1007",
+    "name": "Virat Amrut Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.1,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3833",
+    "name": "Pratik Vitthoba Mali",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 2.12,
+    "marks": 32,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3601",
+    "name": "Prachi Bhimsing Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3408",
+    "name": "Janhavi Sandip Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 6.68,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-1009",
+    "name": "Jogeshwari Prashant Wagh",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 10.0,
+    "marks": 42,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3766",
+    "name": "Divya Bhaskar Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 7.8,
+    "marks": 30,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3584",
+    "name": "Bhavesh Ravindra Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 8.0,
+    "marks": 44,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-3602",
+    "name": "Tanuja Nitin Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.32,
+    "marks": 34,
+    "totalMarks": 100
+  },
+  {
+    "rollNo": "D-1008",
+    "name": "Kalpesh Kailas Patil",
+    "group": "A",
+    "department": "Basic",
+    "city": "Dharangaon",
+    "timeTaken": 9.33,
+    "marks": 24,
     "totalMarks": 100
   }
 ]
